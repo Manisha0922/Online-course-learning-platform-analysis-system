@@ -1,0 +1,301 @@
+Course_ID,Course_Name,Category,Platform,Difficulty_Level,Course_Duration_Hours,Course_Price_USD,Students_Enrolled,Course_Rating,Completion_Rate_Percent
+C0001,Web Development with HTML and CSS,Web Development,Coursera,Intermediate,15,19.4,3174,4.5,34.1
+C0002,Power BI Essentials,Data Analytics,Udemy,Beginner,2,19.92,1426,4.2,59.4
+C0003,Web Development with HTML and CSS,Web Development,Skillshare,Beginner,12,33.67,1899,4.7,68.2
+C0004,React Web Development,Web Development,Coursera,Beginner,3,40.53,880,4.6,68.3
+C0005,Deep Learning Introduction,AI & Machine Learning,Udemy,Intermediate,13,7.79,4522,4.0,53.8
+C0006,Python for Beginners,Programming,Skillshare,Beginner,6,29.98,3053,4.4,72.0
+C0007,Database Management,Programming,LinkedIn Learning,Beginner,18,23.9,1581,3.8,65.8
+C0008,Computer Networks,Cybersecurity,edX,Intermediate,19,43.29,962,3.7,62.5
+C0009,Python for Beginners,Programming,Udemy,Intermediate,17,26.15,1409,4.2,57.5
+C0010,Artificial Intelligence Basics,AI & Machine Learning,edX,Beginner,9,58.07,2138,4.5,65.5
+C0011,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Beginner,9,44.47,606,4.0,59.1
+C0012,Web Development with HTML and CSS,Web Development,edX,Advanced,16,40.87,5548,3.7,68.4
+C0013,Mobile App Development,Mobile Development,edX,Intermediate,5,39.98,2042,4.3,73.0
+C0014,Digital Marketing,Business,Skillshare,Beginner,11,16.77,1278,4.6,61.0
+C0015,Statistics for Data Science,Data Science,Coursera,Intermediate,7,18.0,1164,4.3,64.8
+C0016,Mobile App Development,Mobile Development,edX,Intermediate,17,38.59,2036,4.3,52.4
+C0017,Machine Learning Basics,AI & Machine Learning,Coursera,Intermediate,16,25.07,1377,3.9,42.4
+C0018,Cybersecurity Fundamentals,Cybersecurity,Coursera,Advanced,22,27.96,1825,4.3,58.0
+C0019,Web Development with HTML and CSS,Web Development,LinkedIn Learning,Beginner,11,28.52,1316,4.1,43.1
+C0020,Excel for Business,Data Analytics,Udemy,Beginner,2,0.0,855,4.3,58.7
+C0021,Deep Learning Introduction,AI & Machine Learning,edX,Intermediate,12,64.49,1384,4.4,48.4
+C0022,Machine Learning Basics,AI & Machine Learning,Skillshare,Intermediate,12,7.75,1402,4.4,38.9
+C0023,Database Management,Programming,Udemy,Beginner,10,21.57,1486,3.5,64.9
+C0024,Statistics for Data Science,Data Science,edX,Advanced,17,48.49,2359,4.8,53.2
+C0025,Database Management,Programming,Udemy,Intermediate,8,20.69,2738,4.7,72.4
+C0026,Data Science Fundamentals,Data Science,Udemy,Intermediate,15,39.95,951,3.8,46.4
+C0027,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Beginner,6,9.35,2911,4.1,49.2
+C0028,Deep Learning Introduction,AI & Machine Learning,Skillshare,Advanced,14,26.7,3390,4.9,93.2
+C0029,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Intermediate,16,3.16,365,4.2,47.0
+C0030,Statistics for Data Science,Data Science,LinkedIn Learning,Beginner,5,20.82,2088,4.6,69.4
+C0031,Java Programming,Programming,Udemy,Intermediate,13,2.47,661,3.8,58.3
+C0032,Database Management,Programming,edX,Intermediate,22,46.95,4851,3.8,38.4
+C0033,React Web Development,Web Development,Skillshare,Beginner,3,11.12,8922,3.8,79.0
+C0034,Power BI Essentials,Data Analytics,Udemy,Intermediate,9,31.97,2413,4.0,61.2
+C0035,Machine Learning Basics,AI & Machine Learning,Coursera,Advanced,16,41.69,1285,3.5,41.5
+C0036,Java Programming,Programming,Udemy,Intermediate,14,41.69,2617,4.0,61.6
+C0037,React Web Development,Web Development,Skillshare,Beginner,14,25.29,1328,4.7,66.3
+C0038,Statistics for Data Science,Data Science,Skillshare,Advanced,27,24.75,926,3.4,68.9
+C0039,Python for Data Analysis,Data Science,edX,Advanced,28,42.31,1741,4.7,35.1
+C0040,Python for Beginners,Programming,Coursera,Intermediate,9,44.65,1726,4.0,59.7
+C0041,Database Management,Programming,edX,Intermediate,15,66.11,2484,4.3,32.9
+C0042,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Beginner,7,22.35,724,3.8,62.1
+C0043,SQL for Data Analysis,Data Science,LinkedIn Learning,Beginner,12,10.1,2375,4.0,58.7
+C0044,Cloud Computing Basics,Cloud Computing,Skillshare,Intermediate,19,30.07,4929,4.0,46.3
+C0045,Python for Data Analysis,Data Science,Coursera,Advanced,18,38.64,2650,3.6,56.5
+C0046,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,15,59.76,7388,3.7,54.1
+C0047,Java Programming,Programming,edX,Intermediate,6,36.14,2941,4.6,55.1
+C0048,Database Management,Programming,Skillshare,Advanced,16,0.0,2054,3.6,50.4
+C0049,Mobile App Development,Mobile Development,edX,Intermediate,9,43.59,483,3.4,87.3
+C0050,Web Development with HTML and CSS,Web Development,edX,Advanced,13,28.55,7170,5.0,44.8
+C0051,Cybersecurity Fundamentals,Cybersecurity,Udemy,Beginner,6,23.12,6611,3.7,63.9
+C0052,Computer Networks,Cybersecurity,Coursera,Beginner,11,41.52,1363,4.1,46.8
+C0053,UI/UX Design Fundamentals,Design,Coursera,Advanced,18,31.0,2151,3.8,61.1
+C0054,Database Management,Programming,Udemy,Beginner,13,20.33,3022,4.2,61.9
+C0055,UI/UX Design Fundamentals,Design,Skillshare,Beginner,4,26.75,1680,5.0,87.1
+C0056,Python for Data Analysis,Data Science,Skillshare,Beginner,9,10.55,1007,4.7,67.9
+C0057,Deep Learning Introduction,AI & Machine Learning,Skillshare,Intermediate,16,0.0,3624,4.3,43.5
+C0058,Deep Learning Introduction,AI & Machine Learning,edX,Beginner,5,48.96,1880,4.0,66.3
+C0059,Excel for Business,Data Analytics,LinkedIn Learning,Advanced,18,32.29,5451,2.9,52.6
+C0060,Digital Marketing,Business,Coursera,Beginner,8,39.44,1367,3.4,69.3
+C0061,Machine Learning Basics,AI & Machine Learning,edX,Beginner,16,21.99,3456,4.0,59.1
+C0062,Database Management,Programming,Udemy,Intermediate,8,12.98,6155,4.3,83.2
+C0063,Python for Beginners,Programming,Coursera,Intermediate,19,41.59,8586,4.2,64.6
+C0064,Data Science Fundamentals,Data Science,Udemy,Beginner,6,19.0,1375,4.6,52.7
+C0065,Data Science Fundamentals,Data Science,edX,Beginner,11,42.14,5588,4.5,85.1
+C0066,Power BI Essentials,Data Analytics,edX,Intermediate,17,21.42,1719,3.5,49.9
+C0067,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,15,31.56,1070,3.7,60.9
+C0068,Computer Networks,Cybersecurity,Skillshare,Beginner,2,11.93,2284,4.7,76.9
+C0069,UI/UX Design Fundamentals,Design,LinkedIn Learning,Beginner,2,34.57,1908,4.4,89.0
+C0070,Web Development with HTML and CSS,Web Development,LinkedIn Learning,Beginner,2,21.13,2816,3.5,87.3
+C0071,React Web Development,Web Development,LinkedIn Learning,Advanced,21,42.7,1178,4.4,66.1
+C0072,Data Science Fundamentals,Data Science,Coursera,Beginner,9,38.52,2843,3.8,62.9
+C0073,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Beginner,7,40.75,3827,3.7,64.6
+C0074,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,15,10.85,975,4.3,70.6
+C0075,React Web Development,Web Development,Udemy,Beginner,8,37.93,3437,4.5,72.0
+C0076,Power BI Essentials,Data Analytics,Coursera,Beginner,19,31.92,402,4.9,52.2
+C0077,Database Management,Programming,Coursera,Beginner,8,54.64,698,3.6,46.2
+C0078,Database Management,Programming,Coursera,Advanced,16,41.59,3439,4.2,39.8
+C0079,Power BI Essentials,Data Analytics,Udemy,Beginner,2,18.82,1269,4.4,78.0
+C0080,UI/UX Design Fundamentals,Design,Udemy,Advanced,20,29.4,2147,4.3,45.5
+C0081,Data Science Fundamentals,Data Science,Udemy,Beginner,7,20.95,4295,4.0,72.4
+C0082,Statistics for Data Science,Data Science,edX,Advanced,18,43.24,4324,3.2,39.8
+C0083,Digital Marketing,Business,edX,Beginner,2,10.0,1087,4.5,66.2
+C0084,Database Management,Programming,LinkedIn Learning,Beginner,8,46.34,6284,4.1,81.6
+C0085,Cybersecurity Fundamentals,Cybersecurity,Udemy,Advanced,20,5.44,1157,3.4,43.3
+C0086,Computer Networks,Cybersecurity,Skillshare,Beginner,6,34.05,6572,3.5,71.5
+C0087,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Beginner,2,42.12,1638,3.3,80.7
+C0088,UI/UX Design Fundamentals,Design,Skillshare,Advanced,16,13.99,810,3.8,61.9
+C0089,Python for Data Analysis,Data Science,Udemy,Beginner,7,22.93,3045,4.8,62.0
+C0090,Python for Data Analysis,Data Science,Coursera,Advanced,12,51.01,1810,4.6,64.2
+C0091,Machine Learning Basics,AI & Machine Learning,Skillshare,Beginner,7,27.23,7810,5.0,66.9
+C0092,Power BI Essentials,Data Analytics,LinkedIn Learning,Beginner,8,46.14,958,4.3,65.1
+C0093,Computer Networks,Cybersecurity,Udemy,Intermediate,15,5.5,548,3.1,44.1
+C0094,Data Science Fundamentals,Data Science,Skillshare,Beginner,5,17.6,9926,4.7,56.0
+C0095,Computer Networks,Cybersecurity,Skillshare,Intermediate,15,15.89,1460,4.1,64.9
+C0096,Cloud Computing Basics,Cloud Computing,Udemy,Intermediate,12,33.96,767,4.1,90.8
+C0097,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Beginner,9,39.5,1936,4.4,64.0
+C0098,Java Programming,Programming,edX,Beginner,7,33.31,3205,3.8,74.1
+C0099,Machine Learning Basics,AI & Machine Learning,Coursera,Beginner,13,40.5,1458,4.4,58.2
+C0100,Computer Networks,Cybersecurity,Coursera,Beginner,12,7.53,1405,3.3,44.7
+C0101,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,14,35.43,1054,3.5,25.6
+C0102,Excel for Business,Data Analytics,Coursera,Advanced,17,71.31,2505,3.8,61.7
+C0103,Excel for Business,Data Analytics,edX,Beginner,2,40.54,1948,4.1,79.1
+C0104,Database Management,Programming,edX,Intermediate,15,55.02,1385,4.5,77.0
+C0105,Python for Data Analysis,Data Science,Coursera,Intermediate,9,21.68,6322,4.0,78.5
+C0106,Database Management,Programming,edX,Advanced,17,66.83,2562,4.2,74.9
+C0107,Web Development with HTML and CSS,Web Development,Udemy,Beginner,6,3.88,1291,4.4,48.0
+C0108,Web Development with HTML and CSS,Web Development,Skillshare,Beginner,11,13.92,4276,3.1,53.9
+C0109,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Beginner,2,9.61,2177,4.1,66.6
+C0110,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Intermediate,13,21.05,848,4.4,66.9
+C0111,Cloud Computing Basics,Cloud Computing,Skillshare,Intermediate,15,30.35,2258,5.0,56.5
+C0112,Data Science Fundamentals,Data Science,Coursera,Intermediate,12,23.7,1070,3.5,48.9
+C0113,Cloud Computing Basics,Cloud Computing,Coursera,Beginner,7,40.01,1878,3.8,76.9
+C0114,Java Programming,Programming,edX,Beginner,11,42.61,1422,4.4,65.6
+C0115,Digital Marketing,Business,Skillshare,Intermediate,6,20.98,2200,3.6,66.1
+C0116,Database Management,Programming,Coursera,Beginner,2,55.04,5919,4.1,74.0
+C0117,Java Programming,Programming,Skillshare,Beginner,2,4.65,1862,3.7,78.2
+C0118,Excel for Business,Data Analytics,Skillshare,Intermediate,23,4.35,964,4.2,71.2
+C0119,React Web Development,Web Development,Udemy,Beginner,2,21.74,7086,3.4,54.2
+C0120,Excel for Business,Data Analytics,Coursera,Advanced,17,27.19,3325,4.2,34.8
+C0121,Deep Learning Introduction,AI & Machine Learning,Udemy,Intermediate,16,9.34,4702,3.8,49.2
+C0122,Excel for Business,Data Analytics,Skillshare,Advanced,22,33.44,2530,3.3,59.1
+C0123,React Web Development,Web Development,Skillshare,Intermediate,8,25.53,621,4.3,52.7
+C0124,Power BI Essentials,Data Analytics,Udemy,Advanced,13,28.71,2167,3.8,76.3
+C0125,SQL for Data Analysis,Data Science,LinkedIn Learning,Beginner,5,30.48,2840,3.9,73.2
+C0126,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Intermediate,11,23.83,5024,3.6,31.3
+C0127,Power BI Essentials,Data Analytics,edX,Beginner,16,83.24,1334,3.3,56.1
+C0128,Web Development with HTML and CSS,Web Development,LinkedIn Learning,Advanced,18,27.15,784,4.3,61.7
+C0129,UI/UX Design Fundamentals,Design,Udemy,Beginner,2,28.49,8429,4.2,65.6
+C0130,Digital Marketing,Business,edX,Beginner,7,54.23,493,4.2,61.4
+C0131,Power BI Essentials,Data Analytics,Udemy,Beginner,17,15.39,6316,3.7,66.1
+C0132,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Beginner,9,16.96,2065,4.7,60.8
+C0133,Machine Learning Basics,AI & Machine Learning,edX,Beginner,2,44.74,918,4.0,68.6
+C0134,Python for Data Analysis,Data Science,LinkedIn Learning,Intermediate,5,5.77,3332,3.8,33.7
+C0135,Database Management,Programming,edX,Advanced,23,49.09,1359,3.5,61.9
+C0136,Web Development with HTML and CSS,Web Development,edX,Beginner,9,80.74,2477,4.3,62.7
+C0137,Cloud Computing Basics,Cloud Computing,Coursera,Beginner,12,44.38,4622,3.9,57.4
+C0138,React Web Development,Web Development,edX,Intermediate,11,56.86,5562,3.8,55.2
+C0139,Artificial Intelligence Basics,AI & Machine Learning,LinkedIn Learning,Intermediate,15,26.31,3692,3.0,47.6
+C0140,Python for Data Analysis,Data Science,Coursera,Beginner,4,0.19,1126,3.8,65.8
+C0141,Computer Networks,Cybersecurity,Udemy,Beginner,13,14.32,834,4.1,74.5
+C0142,React Web Development,Web Development,Coursera,Intermediate,9,21.34,2748,4.0,69.5
+C0143,Database Management,Programming,Udemy,Beginner,7,28.52,1068,4.2,63.6
+C0144,Machine Learning Basics,AI & Machine Learning,edX,Intermediate,7,21.55,3023,3.9,50.8
+C0145,Web Development with HTML and CSS,Web Development,edX,Intermediate,13,61.92,326,3.4,47.8
+C0146,React Web Development,Web Development,edX,Beginner,15,49.24,3214,3.7,47.1
+C0147,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Beginner,10,22.87,2728,4.1,67.3
+C0148,React Web Development,Web Development,LinkedIn Learning,Intermediate,14,41.67,3311,3.3,31.2
+C0149,SQL for Data Analysis,Data Science,Skillshare,Intermediate,19,39.82,1079,3.2,55.9
+C0150,Statistics for Data Science,Data Science,Skillshare,Intermediate,18,48.96,3419,3.9,44.7
+C0151,Cybersecurity Fundamentals,Cybersecurity,edX,Beginner,8,40.51,844,5.0,86.8
+C0152,Computer Networks,Cybersecurity,Skillshare,Intermediate,19,8.19,3433,4.3,60.0
+C0153,Digital Marketing,Business,LinkedIn Learning,Beginner,14,39.53,3149,4.5,65.3
+C0154,Deep Learning Introduction,AI & Machine Learning,Skillshare,Beginner,2,23.25,1191,3.6,89.8
+C0155,SQL for Data Analysis,Data Science,Coursera,Beginner,16,55.39,2811,4.8,59.9
+C0156,Mobile App Development,Mobile Development,edX,Beginner,9,28.6,2435,4.2,49.1
+C0157,Power BI Essentials,Data Analytics,edX,Beginner,7,43.8,6961,4.6,66.2
+C0158,Deep Learning Introduction,AI & Machine Learning,Udemy,Beginner,9,18.66,1552,3.7,62.9
+C0159,Power BI Essentials,Data Analytics,LinkedIn Learning,Intermediate,10,11.25,2652,4.2,39.6
+C0160,Machine Learning Basics,AI & Machine Learning,LinkedIn Learning,Beginner,7,44.94,4001,4.6,66.6
+C0161,Computer Networks,Cybersecurity,Udemy,Intermediate,9,1.74,2341,4.2,77.1
+C0162,Statistics for Data Science,Data Science,LinkedIn Learning,Beginner,13,28.02,913,4.0,64.5
+C0163,Java Programming,Programming,Coursera,Advanced,18,26.33,2806,3.8,47.9
+C0164,Web Development with HTML and CSS,Web Development,LinkedIn Learning,Beginner,9,23.97,2171,4.3,51.0
+C0165,Python for Data Analysis,Data Science,LinkedIn Learning,Beginner,5,51.57,971,3.2,45.2
+C0166,Power BI Essentials,Data Analytics,Coursera,Beginner,8,35.46,1655,4.7,33.3
+C0167,Digital Marketing,Business,Skillshare,Advanced,21,45.42,776,3.9,44.3
+C0168,Mobile App Development,Mobile Development,edX,Advanced,15,40.11,5274,4.9,53.5
+C0169,Digital Marketing,Business,Skillshare,Intermediate,23,22.53,6736,4.0,53.5
+C0170,Python for Data Analysis,Data Science,LinkedIn Learning,Intermediate,15,77.68,4396,3.7,69.1
+C0171,Database Management,Programming,LinkedIn Learning,Advanced,18,22.65,4589,4.1,58.7
+C0172,UI/UX Design Fundamentals,Design,LinkedIn Learning,Beginner,8,35.05,2486,3.3,73.4
+C0173,Power BI Essentials,Data Analytics,edX,Intermediate,9,23.37,1730,4.1,53.4
+C0174,Python for Data Analysis,Data Science,LinkedIn Learning,Intermediate,18,9.87,1710,3.8,54.8
+C0175,Cloud Computing Basics,Cloud Computing,LinkedIn Learning,Beginner,9,14.88,3112,4.2,42.0
+C0176,Cybersecurity Fundamentals,Cybersecurity,Udemy,Beginner,2,17.82,1531,4.1,69.3
+C0177,Artificial Intelligence Basics,AI & Machine Learning,Skillshare,Beginner,9,36.21,785,3.6,51.6
+C0178,Java Programming,Programming,Udemy,Beginner,9,36.67,1679,3.0,44.3
+C0179,Java Programming,Programming,Udemy,Beginner,3,9.63,1709,4.2,65.2
+C0180,React Web Development,Web Development,edX,Intermediate,19,34.86,946,4.3,36.3
+C0181,React Web Development,Web Development,Coursera,Beginner,9,36.54,1618,4.9,57.2
+C0182,React Web Development,Web Development,LinkedIn Learning,Advanced,30,26.62,693,4.1,34.1
+C0183,Computer Networks,Cybersecurity,Coursera,Advanced,16,40.96,2742,3.8,68.6
+C0184,Computer Networks,Cybersecurity,LinkedIn Learning,Beginner,13,51.54,2689,4.8,39.3
+C0185,Excel for Business,Data Analytics,edX,Intermediate,12,31.99,1977,3.8,57.6
+C0186,React Web Development,Web Development,Skillshare,Intermediate,23,19.45,2465,3.9,52.8
+C0187,Database Management,Programming,Skillshare,Advanced,20,28.72,5563,4.8,57.7
+C0188,UI/UX Design Fundamentals,Design,Udemy,Beginner,10,0.74,1692,4.6,74.4
+C0189,UI/UX Design Fundamentals,Design,Coursera,Beginner,9,48.3,2612,4.7,68.2
+C0190,Statistics for Data Science,Data Science,Udemy,Advanced,18,23.04,257,4.2,15.0
+C0191,Java Programming,Programming,Skillshare,Intermediate,5,28.78,3321,3.5,56.0
+C0192,Statistics for Data Science,Data Science,Skillshare,Intermediate,20,14.74,12483,4.0,58.9
+C0193,Python for Beginners,Programming,Coursera,Intermediate,22,36.97,1094,4.0,52.2
+C0194,Java Programming,Programming,LinkedIn Learning,Beginner,2,26.16,1330,4.6,70.0
+C0195,Cloud Computing Basics,Cloud Computing,LinkedIn Learning,Beginner,6,28.41,2137,4.4,54.8
+C0196,Digital Marketing,Business,edX,Beginner,2,61.57,1327,3.5,74.9
+C0197,Statistics for Data Science,Data Science,edX,Intermediate,16,22.04,2757,4.4,61.3
+C0198,React Web Development,Web Development,edX,Intermediate,17,23.94,2317,3.9,50.3
+C0199,UI/UX Design Fundamentals,Design,Coursera,Intermediate,18,57.19,6945,4.6,54.1
+C0200,Data Science Fundamentals,Data Science,edX,Beginner,9,56.5,2542,4.2,74.6
+C0201,Machine Learning Basics,AI & Machine Learning,Coursera,Intermediate,13,24.06,1324,4.3,58.9
+C0202,Power BI Essentials,Data Analytics,Udemy,Intermediate,15,28.05,1364,4.4,62.0
+C0203,Mobile App Development,Mobile Development,Udemy,Beginner,2,39.63,1241,3.4,57.1
+C0204,UI/UX Design Fundamentals,Design,Coursera,Intermediate,8,35.78,1472,3.9,69.8
+C0205,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Intermediate,15,34.74,2458,4.3,32.2
+C0206,Excel for Business,Data Analytics,Udemy,Intermediate,12,0.0,1857,4.0,72.1
+C0207,Web Development with HTML and CSS,Web Development,Udemy,Advanced,25,21.04,1242,4.3,44.2
+C0208,Web Development with HTML and CSS,Web Development,Skillshare,Beginner,7,36.79,1189,4.5,74.2
+C0209,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,9,36.61,3053,4.1,52.6
+C0210,Statistics for Data Science,Data Science,LinkedIn Learning,Advanced,15,21.94,3487,3.6,62.8
+C0211,Deep Learning Introduction,AI & Machine Learning,Coursera,Intermediate,7,31.94,1963,5.0,46.6
+C0212,Power BI Essentials,Data Analytics,Coursera,Intermediate,21,37.25,2461,4.1,58.6
+C0213,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,13,43.81,1283,4.6,51.2
+C0214,Computer Networks,Cybersecurity,Coursera,Beginner,7,18.92,2543,4.8,65.2
+C0215,React Web Development,Web Development,edX,Beginner,7,28.28,1522,3.5,55.1
+C0216,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Advanced,21,54.79,14867,3.8,70.5
+C0217,UI/UX Design Fundamentals,Design,Coursera,Beginner,9,32.73,2500,4.2,66.0
+C0218,Excel for Business,Data Analytics,LinkedIn Learning,Intermediate,11,9.03,568,4.3,57.0
+C0219,React Web Development,Web Development,Udemy,Intermediate,11,18.13,3281,4.1,52.4
+C0220,Cloud Computing Basics,Cloud Computing,Skillshare,Intermediate,20,45.69,2619,4.5,68.9
+C0221,Database Management,Programming,LinkedIn Learning,Beginner,13,39.21,3636,4.4,48.7
+C0222,Computer Networks,Cybersecurity,edX,Beginner,11,24.66,996,4.8,73.4
+C0223,Power BI Essentials,Data Analytics,Coursera,Beginner,15,30.92,761,4.1,61.7
+C0224,Digital Marketing,Business,Udemy,Intermediate,14,35.01,1378,4.2,46.3
+C0225,Computer Networks,Cybersecurity,Skillshare,Intermediate,16,22.05,1030,3.9,54.6
+C0226,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Intermediate,12,61.57,1679,3.9,34.4
+C0227,Artificial Intelligence Basics,AI & Machine Learning,Udemy,Intermediate,9,14.05,1080,4.7,59.7
+C0228,Excel for Business,Data Analytics,edX,Beginner,14,45.93,1859,4.1,61.2
+C0229,Mobile App Development,Mobile Development,edX,Intermediate,22,10.21,402,3.8,52.8
+C0230,Python for Data Analysis,Data Science,Udemy,Beginner,11,25.1,1740,4.6,75.7
+C0231,React Web Development,Web Development,LinkedIn Learning,Intermediate,14,44.44,2218,3.8,66.6
+C0232,Power BI Essentials,Data Analytics,LinkedIn Learning,Intermediate,14,30.02,5457,2.9,41.2
+C0233,UI/UX Design Fundamentals,Design,LinkedIn Learning,Intermediate,8,24.55,1493,3.4,50.6
+C0234,Machine Learning Basics,AI & Machine Learning,edX,Beginner,3,81.86,6983,4.0,64.5
+C0235,Power BI Essentials,Data Analytics,edX,Intermediate,8,16.38,1656,3.6,61.4
+C0236,Excel for Business,Data Analytics,LinkedIn Learning,Intermediate,5,18.57,2021,4.2,69.5
+C0237,Excel for Business,Data Analytics,LinkedIn Learning,Advanced,13,42.82,992,4.3,58.8
+C0238,Database Management,Programming,edX,Beginner,2,40.26,3053,4.4,67.9
+C0239,Digital Marketing,Business,edX,Beginner,15,60.11,1491,4.5,83.7
+C0240,Power BI Essentials,Data Analytics,Coursera,Intermediate,23,16.58,902,4.7,39.2
+C0241,Artificial Intelligence Basics,AI & Machine Learning,Coursera,Intermediate,7,27.71,2477,4.0,55.3
+C0242,SQL for Data Analysis,Data Science,Udemy,Beginner,4,7.31,1200,5.0,71.8
+C0243,UI/UX Design Fundamentals,Design,edX,Intermediate,18,37.66,1572,3.7,23.6
+C0244,Python for Data Analysis,Data Science,Skillshare,Beginner,2,0.0,429,3.6,85.5
+C0245,Web Development with HTML and CSS,Web Development,Udemy,Beginner,7,37.36,2460,4.5,55.3
+C0246,Excel for Business,Data Analytics,Udemy,Beginner,10,28.93,1173,4.4,70.8
+C0247,Database Management,Programming,Udemy,Beginner,5,1.16,955,4.2,71.4
+C0248,Data Science Fundamentals,Data Science,Skillshare,Beginner,4,22.4,3561,4.4,86.8
+C0249,Java Programming,Programming,LinkedIn Learning,Beginner,14,14.98,8206,3.9,73.7
+C0250,Python for Beginners,Programming,Skillshare,Beginner,8,15.82,598,4.1,46.7
+C0251,UI/UX Design Fundamentals,Design,LinkedIn Learning,Beginner,12,52.75,994,4.3,53.9
+C0252,Data Science Fundamentals,Data Science,edX,Advanced,16,56.62,2255,4.8,51.0
+C0253,UI/UX Design Fundamentals,Design,Coursera,Intermediate,18,36.46,3284,3.8,54.8
+C0254,Statistics for Data Science,Data Science,LinkedIn Learning,Beginner,7,17.46,3814,4.5,73.2
+C0255,Data Science Fundamentals,Data Science,Udemy,Beginner,15,39.74,1752,4.3,53.0
+C0256,Computer Networks,Cybersecurity,edX,Beginner,8,36.0,6093,4.3,62.8
+C0257,Power BI Essentials,Data Analytics,Coursera,Intermediate,19,2.44,399,4.4,55.4
+C0258,React Web Development,Web Development,Skillshare,Intermediate,15,2.1,1776,5.0,67.4
+C0259,Mobile App Development,Mobile Development,Udemy,Intermediate,14,11.41,1344,3.1,61.3
+C0260,Statistics for Data Science,Data Science,LinkedIn Learning,Advanced,24,6.37,1413,3.5,39.6
+C0261,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Advanced,20,0.0,2866,4.4,51.0
+C0262,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,2,7.05,4558,2.8,62.4
+C0263,Mobile App Development,Mobile Development,Coursera,Advanced,14,47.07,1089,4.2,65.0
+C0264,Deep Learning Introduction,AI & Machine Learning,Udemy,Beginner,17,14.96,2397,3.5,73.4
+C0265,Machine Learning Basics,AI & Machine Learning,Udemy,Beginner,4,9.59,1778,3.5,70.9
+C0266,Database Management,Programming,Coursera,Beginner,12,39.39,705,4.1,71.5
+C0267,React Web Development,Web Development,LinkedIn Learning,Intermediate,4,13.88,3489,4.2,70.1
+C0268,UI/UX Design Fundamentals,Design,edX,Beginner,17,52.03,2961,5.0,56.5
+C0269,Cybersecurity Fundamentals,Cybersecurity,edX,Intermediate,10,51.42,2513,3.8,48.6
+C0270,Digital Marketing,Business,Coursera,Intermediate,25,39.9,1043,4.5,49.2
+C0271,Cloud Computing Basics,Cloud Computing,Skillshare,Intermediate,12,30.43,686,4.2,82.6
+C0272,Deep Learning Introduction,AI & Machine Learning,LinkedIn Learning,Beginner,10,24.36,1236,4.0,61.0
+C0273,Power BI Essentials,Data Analytics,Udemy,Advanced,18,31.74,492,4.4,50.8
+C0274,Java Programming,Programming,Coursera,Beginner,9,18.1,6288,4.7,76.2
+C0275,Cybersecurity Fundamentals,Cybersecurity,Skillshare,Intermediate,6,34.44,2449,3.3,63.5
+C0276,Computer Networks,Cybersecurity,edX,Beginner,9,53.34,2065,4.3,82.4
+C0277,Digital Marketing,Business,edX,Intermediate,20,1.99,1424,4.0,33.0
+C0278,Cloud Computing Basics,Cloud Computing,Skillshare,Intermediate,14,40.73,800,4.2,47.2
+C0279,Digital Marketing,Business,Coursera,Intermediate,10,57.16,1203,4.3,38.5
+C0280,React Web Development,Web Development,edX,Intermediate,23,54.04,1576,4.3,35.0
+C0281,Python for Beginners,Programming,Coursera,Beginner,13,30.14,1992,3.9,54.9
+C0282,Computer Networks,Cybersecurity,Skillshare,Advanced,23,25.84,2947,4.0,58.1
+C0283,Cloud Computing Basics,Cloud Computing,Skillshare,Beginner,5,55.45,557,4.7,83.9
+C0284,SQL for Data Analysis,Data Science,LinkedIn Learning,Intermediate,9,63.44,4898,4.5,62.0
+C0285,Digital Marketing,Business,edX,Beginner,6,41.86,2423,4.8,69.0
+C0286,Computer Networks,Cybersecurity,LinkedIn Learning,Intermediate,9,42.37,3607,4.3,70.6
+C0287,UI/UX Design Fundamentals,Design,Coursera,Beginner,6,21.07,942,3.4,69.6
+C0288,React Web Development,Web Development,edX,Beginner,7,38.4,197,3.6,79.6
+C0289,Web Development with HTML and CSS,Web Development,Udemy,Beginner,4,23.41,637,4.8,66.5
+C0290,UI/UX Design Fundamentals,Design,edX,Intermediate,15,79.89,5638,3.9,50.4
+C0291,Statistics for Data Science,Data Science,Skillshare,Beginner,6,29.65,2145,4.0,84.4
+C0292,Machine Learning Basics,AI & Machine Learning,edX,Beginner,7,79.49,1935,5.0,70.4
+C0293,Web Development with HTML and CSS,Web Development,LinkedIn Learning,Advanced,24,19.13,953,4.3,63.1
+C0294,Python for Beginners,Programming,Skillshare,Beginner,8,2.7,836,3.5,44.2
+C0295,Data Science Fundamentals,Data Science,Udemy,Intermediate,14,34.88,2298,3.0,55.9
+C0296,Mobile App Development,Mobile Development,LinkedIn Learning,Intermediate,13,61.44,606,3.9,79.4
+C0297,Data Science Fundamentals,Data Science,Udemy,Beginner,10,26.45,2529,4.3,73.3
+C0298,Java Programming,Programming,edX,Beginner,3,58.17,829,4.3,71.0
+C0299,UI/UX Design Fundamentals,Design,Coursera,Beginner,4,34.66,1133,3.7,64.0
+C0300,Mobile App Development,Mobile Development,Udemy,Intermediate,8,22.84,763,4.4,48.2
